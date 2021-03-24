@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{78DC6E73-B77E-4BAD-8431-F1299677444E}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="PizzaApp.Android/Properties/AndroidManifest.xml">
+    <Files>
+      <File FileName="PizzaApp/MainPage.xaml" Line="32" Column="35" />
+      <File FileName="PizzaApp/MainPage.xaml.cs" Line="75" Column="1" />
+      <File FileName="PizzaApp.iOS/Main.cs" />
+      <File FileName="PizzaApp.iOS/Info.plist" />
+      <File FileName="PizzaApp.Android/Properties/AndroidManifest.xml" />
+      <File FileName="PizzaApp/Model/Pizza.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PizzaApp" expanded="True">
+            <Node name="PizzaApp" expanded="True">
+              <Node name="Model" expanded="True" />
+              <Node name="MainPage.xaml" expanded="True" />
+            </Node>
+            <Node name="PizzaApp.Android" expanded="True">
+              <Node name="Properties" expanded="True">
+                <Node name="AndroidManifest.xml" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.PizzaApp.iOS automaticSigning="False" TriggeredFromHotReload="False" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.BD130878-12FD-4D88-9456-1BEB596A9483" />
+  <MonoDevelop.Ide.ItemProperties.PizzaApp.Android AndroidDesignerPreferredTheme="Theme.DeviceDefault.NoActionBar.Fullscreen" TriggeredFromHotReload="False" PreferredExecutionTarget="Android.nexus_4_q_10_0_-_api_29" Xamarin.HotReload.XFormsNugetUpgradeInfoBar.PizzaApp.Android.HideInfoBar="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.PizzaApp FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

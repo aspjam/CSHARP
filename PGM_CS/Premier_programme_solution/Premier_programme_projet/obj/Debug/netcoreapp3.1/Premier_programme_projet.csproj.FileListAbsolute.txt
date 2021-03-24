@@ -1,0 +1,13 @@
+C:\Users\jamel\Desktop\C#\PGM_CS\Premier_programme_solution\Premier_programme_projet\bin\Debug\netcoreapp3.1\Premier_programme_projet.exe
+C:\Users\jamel\Desktop\C#\PGM_CS\Premier_programme_solution\Premier_programme_projet\bin\Debug\netcoreapp3.1\Premier_programme_projet.deps.json
+C:\Users\jamel\Desktop\C#\PGM_CS\Premier_programme_solution\Premier_programme_projet\bin\Debug\netcoreapp3.1\Premier_programme_projet.runtimeconfig.json
+C:\Users\jamel\Desktop\C#\PGM_CS\Premier_programme_solution\Premier_programme_projet\bin\Debug\netcoreapp3.1\Premier_programme_projet.runtimeconfig.dev.json
+C:\Users\jamel\Desktop\C#\PGM_CS\Premier_programme_solution\Premier_programme_projet\bin\Debug\netcoreapp3.1\Premier_programme_projet.dll
+C:\Users\jamel\Desktop\C#\PGM_CS\Premier_programme_solution\Premier_programme_projet\bin\Debug\netcoreapp3.1\Premier_programme_projet.pdb
+C:\Users\jamel\Desktop\C#\PGM_CS\Premier_programme_solution\Premier_programme_projet\obj\Debug\netcoreapp3.1\Premier_programme_projet.csprojAssemblyReference.cache
+C:\Users\jamel\Desktop\C#\PGM_CS\Premier_programme_solution\Premier_programme_projet\obj\Debug\netcoreapp3.1\Premier_programme_projet.AssemblyInfoInputs.cache
+C:\Users\jamel\Desktop\C#\PGM_CS\Premier_programme_solution\Premier_programme_projet\obj\Debug\netcoreapp3.1\Premier_programme_projet.AssemblyInfo.cs
+C:\Users\jamel\Desktop\C#\PGM_CS\Premier_programme_solution\Premier_programme_projet\obj\Debug\netcoreapp3.1\Premier_programme_projet.csproj.CoreCompileInputs.cache
+C:\Users\jamel\Desktop\C#\PGM_CS\Premier_programme_solution\Premier_programme_projet\obj\Debug\netcoreapp3.1\Premier_programme_projet.dll
+C:\Users\jamel\Desktop\C#\PGM_CS\Premier_programme_solution\Premier_programme_projet\obj\Debug\netcoreapp3.1\Premier_programme_projet.pdb
+C:\Users\jamel\Desktop\C#\PGM_CS\Premier_programme_solution\Premier_programme_projet\obj\Debug\netcoreapp3.1\Premier_programme_projet.genruntimeconfig.cache
