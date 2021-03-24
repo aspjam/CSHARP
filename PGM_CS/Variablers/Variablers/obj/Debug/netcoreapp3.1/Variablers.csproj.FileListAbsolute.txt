@@ -1,0 +1,13 @@
+C:\Users\jajam\OneDrive\Bureau\CSHARP\PGM_CS\Variablers\Variablers\obj\Debug\netcoreapp3.1\Variablers.csprojAssemblyReference.cache
+C:\Users\jajam\OneDrive\Bureau\CSHARP\PGM_CS\Variablers\Variablers\obj\Debug\netcoreapp3.1\Variablers.AssemblyInfoInputs.cache
+C:\Users\jajam\OneDrive\Bureau\CSHARP\PGM_CS\Variablers\Variablers\obj\Debug\netcoreapp3.1\Variablers.AssemblyInfo.cs
+C:\Users\jajam\OneDrive\Bureau\CSHARP\PGM_CS\Variablers\Variablers\obj\Debug\netcoreapp3.1\Variablers.csproj.CoreCompileInputs.cache
+C:\Users\jajam\OneDrive\Bureau\CSHARP\PGM_CS\Variablers\Variablers\bin\Debug\netcoreapp3.1\Variablers.exe
+C:\Users\jajam\OneDrive\Bureau\CSHARP\PGM_CS\Variablers\Variablers\bin\Debug\netcoreapp3.1\Variablers.deps.json
+C:\Users\jajam\OneDrive\Bureau\CSHARP\PGM_CS\Variablers\Variablers\bin\Debug\netcoreapp3.1\Variablers.runtimeconfig.json
+C:\Users\jajam\OneDrive\Bureau\CSHARP\PGM_CS\Variablers\Variablers\bin\Debug\netcoreapp3.1\Variablers.runtimeconfig.dev.json
+C:\Users\jajam\OneDrive\Bureau\CSHARP\PGM_CS\Variablers\Variablers\bin\Debug\netcoreapp3.1\Variablers.dll
+C:\Users\jajam\OneDrive\Bureau\CSHARP\PGM_CS\Variablers\Variablers\bin\Debug\netcoreapp3.1\Variablers.pdb
+C:\Users\jajam\OneDrive\Bureau\CSHARP\PGM_CS\Variablers\Variablers\obj\Debug\netcoreapp3.1\Variablers.dll
+C:\Users\jajam\OneDrive\Bureau\CSHARP\PGM_CS\Variablers\Variablers\obj\Debug\netcoreapp3.1\Variablers.pdb
+C:\Users\jajam\OneDrive\Bureau\CSHARP\PGM_CS\Variablers\Variablers\obj\Debug\netcoreapp3.1\Variablers.genruntimeconfig.cache

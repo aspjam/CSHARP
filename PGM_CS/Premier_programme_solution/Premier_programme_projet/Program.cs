@@ -18,12 +18,6 @@ namespace Premier_programme_projet
             age = Console.ReadLine();
             Console.WriteLine("Bonjour vous avez " + age + "ans");
 
-
-
-
-
-
-
         }
     }
 }
