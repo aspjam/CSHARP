@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jamel\\Desktop\\C#\\PGM_CS\\Methode_Exception\\Methode_Exception\\Methode.csproj",
-      "projectName": "Methode",
-      "projectPath": "C:\\Users\\jamel\\Desktop\\C#\\PGM_CS\\Methode_Exception\\Methode_Exception\\Methode.csproj",
+      "projectUniqueName": "C:\\Users\\jamel\\Desktop\\C#\\PGM_CS\\Methode_Exception\\Exception\\Exception.csproj",
+      "projectName": "Exception",
+      "projectPath": "C:\\Users\\jamel\\Desktop\\C#\\PGM_CS\\Methode_Exception\\Exception\\Exception.csproj",
       "packagesPath": "C:\\Users\\jamel\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jamel\\Desktop\\C#\\PGM_CS\\Methode_Exception\\Methode_Exception\\obj\\",
+      "outputPath": "C:\\Users\\jamel\\Desktop\\C#\\PGM_CS\\Methode_Exception\\Exception\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jamel\\AppData\\Roaming\\NuGet\\NuGet.Config",

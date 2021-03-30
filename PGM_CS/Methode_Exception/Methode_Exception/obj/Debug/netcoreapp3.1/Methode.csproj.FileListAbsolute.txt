@@ -1,0 +1,13 @@
+C:\Users\jamel\Desktop\C#\PGM_CS\Methode_Exception\Methode_Exception\bin\Debug\netcoreapp3.1\Methode.exe
+C:\Users\jamel\Desktop\C#\PGM_CS\Methode_Exception\Methode_Exception\bin\Debug\netcoreapp3.1\Methode.deps.json
+C:\Users\jamel\Desktop\C#\PGM_CS\Methode_Exception\Methode_Exception\bin\Debug\netcoreapp3.1\Methode.runtimeconfig.json
+C:\Users\jamel\Desktop\C#\PGM_CS\Methode_Exception\Methode_Exception\bin\Debug\netcoreapp3.1\Methode.runtimeconfig.dev.json
+C:\Users\jamel\Desktop\C#\PGM_CS\Methode_Exception\Methode_Exception\bin\Debug\netcoreapp3.1\Methode.dll
+C:\Users\jamel\Desktop\C#\PGM_CS\Methode_Exception\Methode_Exception\bin\Debug\netcoreapp3.1\Methode.pdb
+C:\Users\jamel\Desktop\C#\PGM_CS\Methode_Exception\Methode_Exception\obj\Debug\netcoreapp3.1\Methode.csprojAssemblyReference.cache
+C:\Users\jamel\Desktop\C#\PGM_CS\Methode_Exception\Methode_Exception\obj\Debug\netcoreapp3.1\Methode.AssemblyInfoInputs.cache
+C:\Users\jamel\Desktop\C#\PGM_CS\Methode_Exception\Methode_Exception\obj\Debug\netcoreapp3.1\Methode.AssemblyInfo.cs
+C:\Users\jamel\Desktop\C#\PGM_CS\Methode_Exception\Methode_Exception\obj\Debug\netcoreapp3.1\Methode.csproj.CoreCompileInputs.cache
+C:\Users\jamel\Desktop\C#\PGM_CS\Methode_Exception\Methode_Exception\obj\Debug\netcoreapp3.1\Methode.dll
+C:\Users\jamel\Desktop\C#\PGM_CS\Methode_Exception\Methode_Exception\obj\Debug\netcoreapp3.1\Methode.pdb
+C:\Users\jamel\Desktop\C#\PGM_CS\Methode_Exception\Methode_Exception\obj\Debug\netcoreapp3.1\Methode.genruntimeconfig.cache

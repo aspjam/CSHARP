@@ -165,9 +165,16 @@ namespace Condition_Iteration
             int w = image.Length;
             Console.WriteLine(x);//3
             Console.WriteLine(w);//6
-            Console.WriteLine(image.Rank);//2 car 2 lignes
+            Console.WriteLine(image.Rank);//2 car 2 dimension
+
             Console.WriteLine(image.GetLength(0));//image[2.3]->2
             Console.WriteLine(image.GetLength(1));//image[2.3]->3
+
+            int[,,] array3Da = new int[2, 2, 3]//Rank=3
+            {
+                { { 1, 2, 3 }, { 4, 5, 6 } },
+                { { 7, 8, 9 }, { 10, 11, 12 } }
+            };
 
 
             Console.WriteLine("\n\n");
