@@ -1,0 +1,9 @@
+C:\Users\jamel\Desktop\C#\PGM_CS\Test\POO\bin\Debug\netcoreapp3.1\POO.deps.json
+C:\Users\jamel\Desktop\C#\PGM_CS\Test\POO\bin\Debug\netcoreapp3.1\POO.dll
+C:\Users\jamel\Desktop\C#\PGM_CS\Test\POO\bin\Debug\netcoreapp3.1\POO.pdb
+C:\Users\jamel\Desktop\C#\PGM_CS\Test\POO\obj\Debug\netcoreapp3.1\POO.csprojAssemblyReference.cache
+C:\Users\jamel\Desktop\C#\PGM_CS\Test\POO\obj\Debug\netcoreapp3.1\POO.AssemblyInfoInputs.cache
+C:\Users\jamel\Desktop\C#\PGM_CS\Test\POO\obj\Debug\netcoreapp3.1\POO.AssemblyInfo.cs
+C:\Users\jamel\Desktop\C#\PGM_CS\Test\POO\obj\Debug\netcoreapp3.1\POO.csproj.CoreCompileInputs.cache
+C:\Users\jamel\Desktop\C#\PGM_CS\Test\POO\obj\Debug\netcoreapp3.1\POO.dll
+C:\Users\jamel\Desktop\C#\PGM_CS\Test\POO\obj\Debug\netcoreapp3.1\POO.pdb

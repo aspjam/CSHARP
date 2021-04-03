@@ -1,0 +1,16 @@
+C:\Users\jamel\Desktop\C#\PGM_CS\Test\Test\bin\Debug\netcoreapp3.1\Test.exe
+C:\Users\jamel\Desktop\C#\PGM_CS\Test\Test\bin\Debug\netcoreapp3.1\Test.deps.json
+C:\Users\jamel\Desktop\C#\PGM_CS\Test\Test\bin\Debug\netcoreapp3.1\Test.runtimeconfig.json
+C:\Users\jamel\Desktop\C#\PGM_CS\Test\Test\bin\Debug\netcoreapp3.1\Test.runtimeconfig.dev.json
+C:\Users\jamel\Desktop\C#\PGM_CS\Test\Test\bin\Debug\netcoreapp3.1\Test.dll
+C:\Users\jamel\Desktop\C#\PGM_CS\Test\Test\bin\Debug\netcoreapp3.1\Test.pdb
+C:\Users\jamel\Desktop\C#\PGM_CS\Test\Test\bin\Debug\netcoreapp3.1\POO.dll
+C:\Users\jamel\Desktop\C#\PGM_CS\Test\Test\bin\Debug\netcoreapp3.1\POO.pdb
+C:\Users\jamel\Desktop\C#\PGM_CS\Test\Test\obj\Debug\netcoreapp3.1\Test.csprojAssemblyReference.cache
+C:\Users\jamel\Desktop\C#\PGM_CS\Test\Test\obj\Debug\netcoreapp3.1\Test.AssemblyInfoInputs.cache
+C:\Users\jamel\Desktop\C#\PGM_CS\Test\Test\obj\Debug\netcoreapp3.1\Test.AssemblyInfo.cs
+C:\Users\jamel\Desktop\C#\PGM_CS\Test\Test\obj\Debug\netcoreapp3.1\Test.csproj.CoreCompileInputs.cache
+C:\Users\jamel\Desktop\C#\PGM_CS\Test\Test\obj\Debug\netcoreapp3.1\Test.csproj.CopyComplete
+C:\Users\jamel\Desktop\C#\PGM_CS\Test\Test\obj\Debug\netcoreapp3.1\Test.dll
+C:\Users\jamel\Desktop\C#\PGM_CS\Test\Test\obj\Debug\netcoreapp3.1\Test.pdb
+C:\Users\jamel\Desktop\C#\PGM_CS\Test\Test\obj\Debug\netcoreapp3.1\Test.genruntimeconfig.cache
