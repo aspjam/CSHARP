@@ -122,11 +122,51 @@ namespace Exception1
 
             Console.WriteLine("Apres catch");//EXECUTE
 
-            Console.Write("\n\nEntrez un nombre : ");
-            int n1 = int.Parse(Console.ReadLine());//Si n=0 PAS EXECUTE et tout ce qui suit
-            Console.WriteLine("100/nombre = {0}", 100 / n1);
 
+            //Créer une instance d'une classe d'exception et lever une exception
 
+            //Pour lever une exception : throw avec l'objet d'exception
+
+            var ex = new NullReferenceException("Le paramètre 'Name' est nul.");
+
+            //Leve l'exception ex et affiche
+            //Unhandled exception. System.NullReferenceException: Le paramètre 'Name' est nul.
+            //Le programme s'arrete et n'execute pas ce qui est apres
+            //throw ex; 
+            //Console.WriteLine("Apres throw ex");//Non Executé
+
+            int[] array = { 15, 55 };
+
+            //Console.WriteLine(GetValueFromArray(array, 5));
+            //Unhandled exception. System.IndexOutOfRangeException: Index was outside the bounds of the array.
+
+            //On va lever une exception sur le parametre index a 'aide ArgumentException
+            //Qui est en fait levé par l'objet ex de IndexOutOfRangeException
+
+            /*
+             Unhandled exception. System.ArgumentException: L'index est en dehors du tableau !!!! (Parameter 'indice')
+             ---> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+            Le deuxieme message System.IndexOutOfRa... car ArgumentException(...,ex)
+                        
+             */
+            Console.WriteLine(GetValueFromArray(array, 5));
+
+        }
+
+        static int GetValueFromArray(int[] array, int indice)
+        {
+            try
+            {
+                return array[indice];
+            }
+            catch (IndexOutOfRangeException ex)
+            {
+
+                throw new ArgumentException("L'index est en dehors du tableau !!!!", nameof(indice), ex);
+
+            }
+
+            //return array[index];
         }
     }
 }

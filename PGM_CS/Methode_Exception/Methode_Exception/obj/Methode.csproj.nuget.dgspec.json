@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jajam\\OneDrive\\Bureau\\CSHARP\\PGM_CS\\Methode_Exception\\Methode_Exception\\Methode.csproj": {}
+    "C:\\Users\\jamel\\Desktop\\C#\\PGM_CS\\Methode_Exception\\Methode_Exception\\Methode.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jajam\\OneDrive\\Bureau\\CSHARP\\PGM_CS\\Methode_Exception\\Methode_Exception\\Methode.csproj": {
+    "C:\\Users\\jamel\\Desktop\\C#\\PGM_CS\\Methode_Exception\\Methode_Exception\\Methode.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jajam\\OneDrive\\Bureau\\CSHARP\\PGM_CS\\Methode_Exception\\Methode_Exception\\Methode.csproj",
+        "projectUniqueName": "C:\\Users\\jamel\\Desktop\\C#\\PGM_CS\\Methode_Exception\\Methode_Exception\\Methode.csproj",
         "projectName": "Methode",
-        "projectPath": "C:\\Users\\jajam\\OneDrive\\Bureau\\CSHARP\\PGM_CS\\Methode_Exception\\Methode_Exception\\Methode.csproj",
-        "packagesPath": "C:\\Users\\jajam\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jajam\\OneDrive\\Bureau\\CSHARP\\PGM_CS\\Methode_Exception\\Methode_Exception\\obj\\",
+        "projectPath": "C:\\Users\\jamel\\Desktop\\C#\\PGM_CS\\Methode_Exception\\Methode_Exception\\Methode.csproj",
+        "packagesPath": "C:\\Users\\jamel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jamel\\Desktop\\C#\\PGM_CS\\Methode_Exception\\Methode_Exception\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\jajam\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\jamel\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,6 +26,7 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -37,6 +38,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
@@ -52,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }
