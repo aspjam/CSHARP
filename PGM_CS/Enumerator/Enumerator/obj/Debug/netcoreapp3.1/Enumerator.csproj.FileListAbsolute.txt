@@ -1,0 +1,13 @@
+C:\Users\jamel\Desktop\C#\PGM_CS\Enumerator\Enumerator\bin\Debug\netcoreapp3.1\Enumerator.exe
+C:\Users\jamel\Desktop\C#\PGM_CS\Enumerator\Enumerator\bin\Debug\netcoreapp3.1\Enumerator.deps.json
+C:\Users\jamel\Desktop\C#\PGM_CS\Enumerator\Enumerator\bin\Debug\netcoreapp3.1\Enumerator.runtimeconfig.json
+C:\Users\jamel\Desktop\C#\PGM_CS\Enumerator\Enumerator\bin\Debug\netcoreapp3.1\Enumerator.runtimeconfig.dev.json
+C:\Users\jamel\Desktop\C#\PGM_CS\Enumerator\Enumerator\bin\Debug\netcoreapp3.1\Enumerator.dll
+C:\Users\jamel\Desktop\C#\PGM_CS\Enumerator\Enumerator\bin\Debug\netcoreapp3.1\Enumerator.pdb
+C:\Users\jamel\Desktop\C#\PGM_CS\Enumerator\Enumerator\obj\Debug\netcoreapp3.1\Enumerator.csprojAssemblyReference.cache
+C:\Users\jamel\Desktop\C#\PGM_CS\Enumerator\Enumerator\obj\Debug\netcoreapp3.1\Enumerator.AssemblyInfoInputs.cache
+C:\Users\jamel\Desktop\C#\PGM_CS\Enumerator\Enumerator\obj\Debug\netcoreapp3.1\Enumerator.AssemblyInfo.cs
+C:\Users\jamel\Desktop\C#\PGM_CS\Enumerator\Enumerator\obj\Debug\netcoreapp3.1\Enumerator.csproj.CoreCompileInputs.cache
+C:\Users\jamel\Desktop\C#\PGM_CS\Enumerator\Enumerator\obj\Debug\netcoreapp3.1\Enumerator.dll
+C:\Users\jamel\Desktop\C#\PGM_CS\Enumerator\Enumerator\obj\Debug\netcoreapp3.1\Enumerator.pdb
+C:\Users\jamel\Desktop\C#\PGM_CS\Enumerator\Enumerator\obj\Debug\netcoreapp3.1\Enumerator.genruntimeconfig.cache

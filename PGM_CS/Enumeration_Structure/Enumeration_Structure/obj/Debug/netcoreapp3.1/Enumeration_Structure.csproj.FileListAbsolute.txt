@@ -1,0 +1,13 @@
+C:\Users\jamel\Desktop\C#\PGM_CS\Enumeration_Structure\Enumeration_Structure\obj\Debug\netcoreapp3.1\Enumeration_Structure.csprojAssemblyReference.cache
+C:\Users\jamel\Desktop\C#\PGM_CS\Enumeration_Structure\Enumeration_Structure\obj\Debug\netcoreapp3.1\Enumeration_Structure.AssemblyInfoInputs.cache
+C:\Users\jamel\Desktop\C#\PGM_CS\Enumeration_Structure\Enumeration_Structure\obj\Debug\netcoreapp3.1\Enumeration_Structure.AssemblyInfo.cs
+C:\Users\jamel\Desktop\C#\PGM_CS\Enumeration_Structure\Enumeration_Structure\obj\Debug\netcoreapp3.1\Enumeration_Structure.csproj.CoreCompileInputs.cache
+C:\Users\jamel\Desktop\C#\PGM_CS\Enumeration_Structure\Enumeration_Structure\bin\Debug\netcoreapp3.1\Enumeration_Structure.exe
+C:\Users\jamel\Desktop\C#\PGM_CS\Enumeration_Structure\Enumeration_Structure\bin\Debug\netcoreapp3.1\Enumeration_Structure.deps.json
+C:\Users\jamel\Desktop\C#\PGM_CS\Enumeration_Structure\Enumeration_Structure\bin\Debug\netcoreapp3.1\Enumeration_Structure.runtimeconfig.json
+C:\Users\jamel\Desktop\C#\PGM_CS\Enumeration_Structure\Enumeration_Structure\bin\Debug\netcoreapp3.1\Enumeration_Structure.runtimeconfig.dev.json
+C:\Users\jamel\Desktop\C#\PGM_CS\Enumeration_Structure\Enumeration_Structure\bin\Debug\netcoreapp3.1\Enumeration_Structure.dll
+C:\Users\jamel\Desktop\C#\PGM_CS\Enumeration_Structure\Enumeration_Structure\bin\Debug\netcoreapp3.1\Enumeration_Structure.pdb
+C:\Users\jamel\Desktop\C#\PGM_CS\Enumeration_Structure\Enumeration_Structure\obj\Debug\netcoreapp3.1\Enumeration_Structure.dll
+C:\Users\jamel\Desktop\C#\PGM_CS\Enumeration_Structure\Enumeration_Structure\obj\Debug\netcoreapp3.1\Enumeration_Structure.pdb
+C:\Users\jamel\Desktop\C#\PGM_CS\Enumeration_Structure\Enumeration_Structure\obj\Debug\netcoreapp3.1\Enumeration_Structure.genruntimeconfig.cache

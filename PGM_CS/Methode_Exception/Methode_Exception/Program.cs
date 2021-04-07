@@ -97,7 +97,7 @@ namespace Methode_Exception
             Une méthode d'instance peut utiliser un membre de classe (attribut static ou méthode static).
             Une méthode de classe (methode static) peut utiliser un membre de classe (attribut static ou méthode static)..
             Une méthode de classe ne peut pas utiliser un membre d'instance (attribut ou méthode).
-            Une méthode de classe ne peut pas utiliser le mot-clé this.
+            Une méthode de classe ne peut pas utiliser le mot-clé this.+
             
             Les methodes surchargées ne peuvent se faire que dans la classe et pas dans la methode
             Commme main est static elle ne peut utiliser que des methodes static

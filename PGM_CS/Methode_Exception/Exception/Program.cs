@@ -147,7 +147,8 @@ namespace Exception1
              Unhandled exception. System.ArgumentException: L'index est en dehors du tableau !!!! (Parameter 'indice')
              ---> System.IndexOutOfRangeException: Index was outside the bounds of the array.
             Le deuxieme message System.IndexOutOfRa... car ArgumentException(...,ex)
-                        
+            
+            
              */
             Console.WriteLine(GetValueFromArray(array, 5));
 

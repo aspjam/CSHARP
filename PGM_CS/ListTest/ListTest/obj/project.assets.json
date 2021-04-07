@@ -1,0 +1,104 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "FunctorComparer/1.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/FunctorComparer.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/FunctorComparer.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FunctorComparer/1.0.0": {
+      "sha512": "9hT29MUHQ6zeHWPwEGC/OJux7hB85ML3B8Q7rearvE6K9ewshRWyvpC70tEnokUBVSTed0rktU+AMHIIkZ5qKw==",
+      "type": "package",
+      "path": "functorcomparer/1.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "functorcomparer.1.0.0.nupkg.sha512",
+        "functorcomparer.nuspec",
+        "lib/net35/FunctorComparer.dll",
+        "lib/net40/FunctorComparer.dll",
+        "lib/net45/FunctorComparer.dll",
+        "lib/net46/FunctorComparer.dll",
+        "lib/netstandard1.0/FunctorComparer.dll",
+        "lib/netstandard1.3/FunctorComparer.dll",
+        "lib/netstandard2.0/FunctorComparer.dll"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "FunctorComparer >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\jamel\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\jamel\\Desktop\\C#\\PGM_CS\\ListTest\\ListTest\\ListTest.csproj",
+      "projectName": "ListTest",
+      "projectPath": "C:\\Users\\jamel\\Desktop\\C#\\PGM_CS\\ListTest\\ListTest\\ListTest.csproj",
+      "packagesPath": "C:\\Users\\jamel\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\jamel\\Desktop\\C#\\PGM_CS\\ListTest\\ListTest\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\jamel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "dependencies": {
+          "FunctorComparer": {
+            "target": "Package",
+            "version": "[1.0.0, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
