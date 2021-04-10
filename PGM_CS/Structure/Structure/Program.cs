@@ -1,8 +1,8 @@
 ﻿using System;
 
-namespace Structure
+namespace N1
 {
-    struct Namespace { }
+    struct structN1 { }
 
     class Program
     {

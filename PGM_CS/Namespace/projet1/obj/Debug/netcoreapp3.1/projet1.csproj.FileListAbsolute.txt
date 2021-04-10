@@ -1,0 +1,16 @@
+C:\Users\jamel\Desktop\C#\PGM_CS\solution1\projet1\bin\Debug\netcoreapp3.1\projet1.exe
+C:\Users\jamel\Desktop\C#\PGM_CS\solution1\projet1\bin\Debug\netcoreapp3.1\projet1.deps.json
+C:\Users\jamel\Desktop\C#\PGM_CS\solution1\projet1\bin\Debug\netcoreapp3.1\projet1.runtimeconfig.json
+C:\Users\jamel\Desktop\C#\PGM_CS\solution1\projet1\bin\Debug\netcoreapp3.1\projet1.runtimeconfig.dev.json
+C:\Users\jamel\Desktop\C#\PGM_CS\solution1\projet1\bin\Debug\netcoreapp3.1\projet1.dll
+C:\Users\jamel\Desktop\C#\PGM_CS\solution1\projet1\bin\Debug\netcoreapp3.1\projet1.pdb
+C:\Users\jamel\Desktop\C#\PGM_CS\solution1\projet1\obj\Debug\netcoreapp3.1\projet1.csprojAssemblyReference.cache
+C:\Users\jamel\Desktop\C#\PGM_CS\solution1\projet1\obj\Debug\netcoreapp3.1\projet1.AssemblyInfoInputs.cache
+C:\Users\jamel\Desktop\C#\PGM_CS\solution1\projet1\obj\Debug\netcoreapp3.1\projet1.AssemblyInfo.cs
+C:\Users\jamel\Desktop\C#\PGM_CS\solution1\projet1\obj\Debug\netcoreapp3.1\projet1.csproj.CoreCompileInputs.cache
+C:\Users\jamel\Desktop\C#\PGM_CS\solution1\projet1\obj\Debug\netcoreapp3.1\projet1.dll
+C:\Users\jamel\Desktop\C#\PGM_CS\solution1\projet1\obj\Debug\netcoreapp3.1\projet1.pdb
+C:\Users\jamel\Desktop\C#\PGM_CS\solution1\projet1\obj\Debug\netcoreapp3.1\projet1.genruntimeconfig.cache
+C:\Users\jamel\Desktop\C#\PGM_CS\solution1\projet1\bin\Debug\netcoreapp3.1\bibli1.dll
+C:\Users\jamel\Desktop\C#\PGM_CS\solution1\projet1\bin\Debug\netcoreapp3.1\bibli1.pdb
+C:\Users\jamel\Desktop\C#\PGM_CS\solution1\projet1\obj\Debug\netcoreapp3.1\projet1.csproj.CopyComplete

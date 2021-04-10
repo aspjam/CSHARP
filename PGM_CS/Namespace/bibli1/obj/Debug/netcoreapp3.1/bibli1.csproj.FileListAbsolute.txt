@@ -1,0 +1,9 @@
+C:\Users\jamel\Desktop\C#\PGM_CS\solution1\bibli1\bin\Debug\netcoreapp3.1\bibli1.deps.json
+C:\Users\jamel\Desktop\C#\PGM_CS\solution1\bibli1\bin\Debug\netcoreapp3.1\bibli1.dll
+C:\Users\jamel\Desktop\C#\PGM_CS\solution1\bibli1\bin\Debug\netcoreapp3.1\bibli1.pdb
+C:\Users\jamel\Desktop\C#\PGM_CS\solution1\bibli1\obj\Debug\netcoreapp3.1\bibli1.csprojAssemblyReference.cache
+C:\Users\jamel\Desktop\C#\PGM_CS\solution1\bibli1\obj\Debug\netcoreapp3.1\bibli1.AssemblyInfoInputs.cache
+C:\Users\jamel\Desktop\C#\PGM_CS\solution1\bibli1\obj\Debug\netcoreapp3.1\bibli1.AssemblyInfo.cs
+C:\Users\jamel\Desktop\C#\PGM_CS\solution1\bibli1\obj\Debug\netcoreapp3.1\bibli1.csproj.CoreCompileInputs.cache
+C:\Users\jamel\Desktop\C#\PGM_CS\solution1\bibli1\obj\Debug\netcoreapp3.1\bibli1.dll
+C:\Users\jamel\Desktop\C#\PGM_CS\solution1\bibli1\obj\Debug\netcoreapp3.1\bibli1.pdb
