@@ -1,0 +1,13 @@
+C:\Users\jamel\Desktop\C#\PGM_CS\EventHandler\EventHandler\bin\Debug\netcoreapp3.1\EventHandler.exe
+C:\Users\jamel\Desktop\C#\PGM_CS\EventHandler\EventHandler\bin\Debug\netcoreapp3.1\EventHandler.deps.json
+C:\Users\jamel\Desktop\C#\PGM_CS\EventHandler\EventHandler\bin\Debug\netcoreapp3.1\EventHandler.runtimeconfig.json
+C:\Users\jamel\Desktop\C#\PGM_CS\EventHandler\EventHandler\bin\Debug\netcoreapp3.1\EventHandler.runtimeconfig.dev.json
+C:\Users\jamel\Desktop\C#\PGM_CS\EventHandler\EventHandler\bin\Debug\netcoreapp3.1\EventHandler.dll
+C:\Users\jamel\Desktop\C#\PGM_CS\EventHandler\EventHandler\bin\Debug\netcoreapp3.1\EventHandler.pdb
+C:\Users\jamel\Desktop\C#\PGM_CS\EventHandler\EventHandler\obj\Debug\netcoreapp3.1\EventHandler.csprojAssemblyReference.cache
+C:\Users\jamel\Desktop\C#\PGM_CS\EventHandler\EventHandler\obj\Debug\netcoreapp3.1\EventHandler.AssemblyInfoInputs.cache
+C:\Users\jamel\Desktop\C#\PGM_CS\EventHandler\EventHandler\obj\Debug\netcoreapp3.1\EventHandler.AssemblyInfo.cs
+C:\Users\jamel\Desktop\C#\PGM_CS\EventHandler\EventHandler\obj\Debug\netcoreapp3.1\EventHandler.csproj.CoreCompileInputs.cache
+C:\Users\jamel\Desktop\C#\PGM_CS\EventHandler\EventHandler\obj\Debug\netcoreapp3.1\EventHandler.dll
+C:\Users\jamel\Desktop\C#\PGM_CS\EventHandler\EventHandler\obj\Debug\netcoreapp3.1\EventHandler.pdb
+C:\Users\jamel\Desktop\C#\PGM_CS\EventHandler\EventHandler\obj\Debug\netcoreapp3.1\EventHandler.genruntimeconfig.cache

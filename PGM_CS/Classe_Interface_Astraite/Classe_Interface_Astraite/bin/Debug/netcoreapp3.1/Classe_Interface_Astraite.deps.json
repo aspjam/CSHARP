@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Classe_Interface_Astraite/1.0.0": {
+        "runtime": {
+          "Classe_Interface_Astraite.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Classe_Interface_Astraite/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
