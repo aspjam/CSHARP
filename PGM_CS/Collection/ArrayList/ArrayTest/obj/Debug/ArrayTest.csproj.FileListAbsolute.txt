@@ -1,0 +1,12 @@
+C:\Users\jamel\Desktop\C#\PGM_CS\ArrayTest\ArrayTest\bin\Debug\ArrayTest.exe
+C:\Users\jamel\Desktop\C#\PGM_CS\ArrayTest\ArrayTest\bin\Debug\ArrayTest.pdb
+C:\Users\jamel\Desktop\C#\PGM_CS\ArrayTest\ArrayTest\obj\Debug\ArrayTest.csprojAssemblyReference.cache
+C:\Users\jamel\Desktop\C#\PGM_CS\ArrayTest\ArrayTest\obj\Debug\ArrayTest.csproj.CoreCompileInputs.cache
+C:\Users\jamel\Desktop\C#\PGM_CS\ArrayTest\ArrayTest\obj\Debug\ArrayTest.exe
+C:\Users\jamel\Desktop\C#\PGM_CS\ArrayTest\ArrayTest\obj\Debug\ArrayTest.pdb
+C:\Users\jamel\Desktop\C#\PGM_CS\Collection\ArrayList\ArrayTest\bin\Debug\ArrayTest.exe
+C:\Users\jamel\Desktop\C#\PGM_CS\Collection\ArrayList\ArrayTest\bin\Debug\ArrayTest.pdb
+C:\Users\jamel\Desktop\C#\PGM_CS\Collection\ArrayList\ArrayTest\obj\Debug\ArrayTest.csprojAssemblyReference.cache
+C:\Users\jamel\Desktop\C#\PGM_CS\Collection\ArrayList\ArrayTest\obj\Debug\ArrayTest.csproj.CoreCompileInputs.cache
+C:\Users\jamel\Desktop\C#\PGM_CS\Collection\ArrayList\ArrayTest\obj\Debug\ArrayTest.exe
+C:\Users\jamel\Desktop\C#\PGM_CS\Collection\ArrayList\ArrayTest\obj\Debug\ArrayTest.pdb

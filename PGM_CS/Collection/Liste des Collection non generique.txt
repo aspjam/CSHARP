@@ -1,0 +1,24 @@
+/*
+             Classe de Collection Satandard non generique
+
+             ArrayList est une liste à usage général qui stocke 
+             une collection linéaire d'objets. 
+
+             Hashtable est une classe de dictionnaire à usage général 
+             qui stocke une collection de paires clé / valeur
+
+             Queue est une collection d'objets premier entré, dernier sorti
+             ajouter des objets à l'arrière de la file d'attente (Enqueue)
+             récupérer des objets à l'avant de la file d'attente (Dequeue).
+
+             SortedList stocke une collection de paires clé / valeur triées par clé. 
+             En plus des fonctionnalités fournies par la classe Hashtable, 
+             la SortedList vous permet de récupérer des éléments soit par clé, soit par index.
+
+             Stack est une collection d'objets premier entré, premier sorti. 
+            La pile inclut des méthodes pour afficher l'élément supérieur 
+            de la collection sans le supprimer (Peek), ajouter un élément 
+            au sommet de la pile (Push), et supprimer et renvoyer l'élément 
+            en haut de la pile (Pop).
+
+             */

@@ -1,0 +1,6 @@
+C:\Users\jamel\Desktop\C#\PGM_CS\Collection\Hashtable\Hashtable\bin\Debug\Hashtable.exe
+C:\Users\jamel\Desktop\C#\PGM_CS\Collection\Hashtable\Hashtable\bin\Debug\Hashtable.pdb
+C:\Users\jamel\Desktop\C#\PGM_CS\Collection\Hashtable\Hashtable\obj\Debug\Hashtable.csprojAssemblyReference.cache
+C:\Users\jamel\Desktop\C#\PGM_CS\Collection\Hashtable\Hashtable\obj\Debug\Hashtable.csproj.CoreCompileInputs.cache
+C:\Users\jamel\Desktop\C#\PGM_CS\Collection\Hashtable\Hashtable\obj\Debug\Hashtable.exe
+C:\Users\jamel\Desktop\C#\PGM_CS\Collection\Hashtable\Hashtable\obj\Debug\Hashtable.pdb
