@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Collection_SortedList_Queue_Stack", "Collection_SortedList_Queue_Stack\Collection_SortedList_Queue_Stack.csproj", "{6A39BB2A-BD51-4D76-AAD0-9E4844B7E4C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A39BB2A-BD51-4D76-AAD0-9E4844B7E4C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A39BB2A-BD51-4D76-AAD0-9E4844B7E4C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A39BB2A-BD51-4D76-AAD0-9E4844B7E4C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A39BB2A-BD51-4D76-AAD0-9E4844B7E4C3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A6D4311E-8DEC-496E-9717-4BC1C2D0E4CD}
+	EndGlobalSection
+EndGlobal

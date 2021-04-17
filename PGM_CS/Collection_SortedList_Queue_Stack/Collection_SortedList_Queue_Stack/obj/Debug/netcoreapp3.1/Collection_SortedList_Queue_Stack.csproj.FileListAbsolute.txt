@@ -1,0 +1,13 @@
+C:\Users\jamel\Desktop\C#\PGM_CS\Collection_SortedList_Queue_Stack\Collection_SortedList_Queue_Stack\bin\Debug\netcoreapp3.1\Collection_SortedList_Queue_Stack.exe
+C:\Users\jamel\Desktop\C#\PGM_CS\Collection_SortedList_Queue_Stack\Collection_SortedList_Queue_Stack\bin\Debug\netcoreapp3.1\Collection_SortedList_Queue_Stack.deps.json
+C:\Users\jamel\Desktop\C#\PGM_CS\Collection_SortedList_Queue_Stack\Collection_SortedList_Queue_Stack\bin\Debug\netcoreapp3.1\Collection_SortedList_Queue_Stack.runtimeconfig.json
+C:\Users\jamel\Desktop\C#\PGM_CS\Collection_SortedList_Queue_Stack\Collection_SortedList_Queue_Stack\bin\Debug\netcoreapp3.1\Collection_SortedList_Queue_Stack.runtimeconfig.dev.json
+C:\Users\jamel\Desktop\C#\PGM_CS\Collection_SortedList_Queue_Stack\Collection_SortedList_Queue_Stack\bin\Debug\netcoreapp3.1\Collection_SortedList_Queue_Stack.dll
+C:\Users\jamel\Desktop\C#\PGM_CS\Collection_SortedList_Queue_Stack\Collection_SortedList_Queue_Stack\bin\Debug\netcoreapp3.1\Collection_SortedList_Queue_Stack.pdb
+C:\Users\jamel\Desktop\C#\PGM_CS\Collection_SortedList_Queue_Stack\Collection_SortedList_Queue_Stack\obj\Debug\netcoreapp3.1\Collection_SortedList_Queue_Stack.csprojAssemblyReference.cache
+C:\Users\jamel\Desktop\C#\PGM_CS\Collection_SortedList_Queue_Stack\Collection_SortedList_Queue_Stack\obj\Debug\netcoreapp3.1\Collection_SortedList_Queue_Stack.AssemblyInfoInputs.cache
+C:\Users\jamel\Desktop\C#\PGM_CS\Collection_SortedList_Queue_Stack\Collection_SortedList_Queue_Stack\obj\Debug\netcoreapp3.1\Collection_SortedList_Queue_Stack.AssemblyInfo.cs
+C:\Users\jamel\Desktop\C#\PGM_CS\Collection_SortedList_Queue_Stack\Collection_SortedList_Queue_Stack\obj\Debug\netcoreapp3.1\Collection_SortedList_Queue_Stack.csproj.CoreCompileInputs.cache
+C:\Users\jamel\Desktop\C#\PGM_CS\Collection_SortedList_Queue_Stack\Collection_SortedList_Queue_Stack\obj\Debug\netcoreapp3.1\Collection_SortedList_Queue_Stack.dll
+C:\Users\jamel\Desktop\C#\PGM_CS\Collection_SortedList_Queue_Stack\Collection_SortedList_Queue_Stack\obj\Debug\netcoreapp3.1\Collection_SortedList_Queue_Stack.pdb
+C:\Users\jamel\Desktop\C#\PGM_CS\Collection_SortedList_Queue_Stack\Collection_SortedList_Queue_Stack\obj\Debug\netcoreapp3.1\Collection_SortedList_Queue_Stack.genruntimeconfig.cache
